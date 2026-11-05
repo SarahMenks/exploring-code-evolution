@@ -81,9 +81,9 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/TheAlgorithms/Python
+2. Gráfico selecionado:
+<img width="728" height="355" alt="image" src="https://github.com/user-attachments/assets/03f0fecc-4354-477a-8adf-8eabab25597d" />
 
 
-
+3. Explicação: Como o TheAlgorithms/Python é um projeto dedicado à implementação (didática) de algoritmos e estruturas de dados, os dados do gráfico mostram a dinâmica interna dessas implementações. A ``list`` representa mais de 65% de todas as estruturas no repositório (2.420 ocorrências). Isso ocorre porque a maioria dos algoritmos classicos (ordenação, busca em arrays e manipulação de matrizes) usa a ``list`` do Python para receber e processar dados. O alto volume de ``tuplas`` se justifica pela necessidade de imutabilidade ao passar pares de coordenadas, estados de algoritmos, nós ponderados em grafos ou múltiplos valores de retorno em rotinas matemáticas. Por fim, o baixo uso do ``dictionary`` e de ``set`` se justifica por serem aplicados em cenários mais específicos, como tabelas hash e listas de adjacência em grafos. Diante de tudo isso, é interessante pensar em como a ``list`` permanece como a peça fundamental sobre qual boa parte dos algoritmos são construídos.   
